@@ -1,4 +1,7 @@
 # random_name_generator
+
+Hosted at: https://random-name-gen.surge.sh/
+
 <br>
 A little program which generates random name based on letters frequency.
 <br>
